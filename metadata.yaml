@@ -1,11 +1,16 @@
 _repo: The-Middle-Kingdom-Volume-I-of-2-A-Survey-of-the-Geography-Government-Literature-Social-Life-__57868
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57868-h/images/cover.jpg
 creator:
   author:
     agent_name: Williams, S. Wells (Samuel Wells)
     gutenberg_agent_id: '49660'
     url: http://www.gutenberg.org/2009/agents/49660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57868#The-Middle-Kingdom-Volume-I-of-2-A-Survey-of-the-Geography-Government-Literature-Social-Life-_
 gutenberg_issued: '2018-09-08'
 gutenberg_type: Text
 identifiers:
